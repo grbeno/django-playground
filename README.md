@@ -1,1 +1,1 @@
-## My Django start porject
+## My Django start project
